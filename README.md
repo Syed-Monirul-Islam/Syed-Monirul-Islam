@@ -1,3 +1,4 @@
+![Building Projects with .NET & SQL](https://pbs.twimg.com/profile_banners/1060647142191095808/1752770412/1080x360)
 ### Hi there 👋,  I'm Syed Monirul Islam
 #### Building Projects with .NET & SQL
 
